@@ -1,3 +1,0 @@
-# Bundlesize-TravisCI
-
-web.dev
